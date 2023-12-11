@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Labb3
 {
-    public struct Hair
+    struct Hair
     {
         public int HairLength;
         public string HairColour; 

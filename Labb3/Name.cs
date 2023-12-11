@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace Labb3
 {
-     enum Gender
+    struct Name
     {
-        Male,
-        Female,
-        NonBinary,
-        Other
-        
+        public string FirstName;
+        public string LastName;
+
 
     }
 }
